@@ -1,0 +1,14 @@
+body ,html,#app{
+    height: 100%;
+    width: 100%;
+}
+
+#myblog-container{
+    height: 100%;
+}
+.blog_container{
+    height: 100%;
+}
+.ant-layout{
+    height: 100%;
+}
